@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+		<typeAliases>
+			<!--批量定义-->
+			<package name="com.sxt.dto"/>
+
+			<!--为指定的某一个类起别名-->
+			<!-- 配置所需要的别名 -->
+		<!--<typeAlias type="com.sxt.dto.Money" alias="Money"/>-->
+		
+		</typeAliases>
+		<!-- 指定映射路径 -->
+		<mappers>
+			<!--用某个包下的所有映射-->
+			<package name="com.sxt.dao"/>
+			<!--扫描固定的某个mapper.xml用这个配置-->
+			<!--<mapper resource="mapper/Mmapper.xml"/>-->
+		</mappers>
+		
+</configuration>

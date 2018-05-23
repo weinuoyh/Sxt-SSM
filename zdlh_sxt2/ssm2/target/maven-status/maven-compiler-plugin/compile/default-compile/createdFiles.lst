@@ -1,0 +1,13 @@
+com\sxt\dao\Mmapper.class
+com\pycredit\test\services\WebServiceSingleQuery\Test.class
+com\sxt\controller\MyTest.class
+com\pycredit\test\services\WebServiceSingleQuery\WebServiceSingleQuerySoapBindingStub.class
+com\pycredit\test\services\WebServiceSingleQuery\WebServiceSingleQueryServiceLocator.class
+com\sxt\controller\MoneyController.class
+com\sxt\dto\Money.class
+com\pycredit\test\services\WebServiceSingleQuery\WebServiceSingleQueryService.class
+com\sxt\service\MserviceImpl.class
+com\pycredit\test\services\WebServiceSingleQuery\WebServiceSingleQuery.class
+com\pycredit\test\services\WebServiceSingleQuery\Base64.class
+com\pycredit\test\services\WebServiceSingleQuery\CompressStringUtil.class
+com\sxt\service\Mservice.class
